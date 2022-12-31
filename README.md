@@ -1,4 +1,4 @@
-# <p align="center"> Mohirfest 22 hackathon project</p>
+# <p align="center"> MohirFest 22 hackathon project</p>
 ### <p align="center"><em> Shakhboz Razzokov <sup>a,</sup><sup>b</sup>, Sugdiyona Akhmadjonova <sup>b</sup>, Abdulqodir Miraliyev <sup>c</sup></em></p>
 
 <p><em><sup>a</sup> Front-end developer</em></p>
