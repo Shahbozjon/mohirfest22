@@ -13,3 +13,10 @@
 
 ## 📌 Deployment
 <em>Netlify: </em> https://yyulduz.netlify.app/
+
+## 📌 Victory!
+Our team took the <b> 1<sup>st</sup> place </b1> in this Hackathon!
+![image](https://user-images.githubusercontent.com/69413364/212644895-dedd0e67-c2e1-4356-8622-39a3e6dedf73.png)
+![image](https://user-images.githubusercontent.com/69413364/212644978-2584184f-7fef-4d27-80f3-1976c2c189af.png)
+![image](https://user-images.githubusercontent.com/69413364/212645097-01665924-c90b-4796-8483-09050d7e3cfa.png)
+
