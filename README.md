@@ -1,8 +1,8 @@
 # <p align="center"> MohirFest 22 hackathon project</p>
 ### <p align="center"><em> Shakhboz Razzokov <sup>a,</sup><sup>b</sup>, Sugdiyona Akhmadjonova <sup>b</sup>, Abdulqodir Miraliyev <sup>c</sup></em></p>
 
-<p><em><sup>a</sup> Front-end developer</em></p>
-<p><em><sup>b</sup> Project manager </em></p>
+<p><em><sup>a</sup> Project manager  </em></p>
+<p><em><sup>b</sup> Front-end developer </em></p>
 <p><em><sup>c</sup> Designer </em></p>
 
 ## 📌  Abstract
